@@ -1,0 +1,12 @@
+#Visual Studio temp files and folders
+bin/
+obj/
+*.suo
+*.user
+/packages
+*.userprefs
+*.apk
+Resource.Designer.cs
+Components/
+XmlDocument.xml
+*.mdb
